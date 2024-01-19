@@ -30,27 +30,13 @@
     },
     {
       "id": 5,
-      "name": "LK Nhạc Trữ Tình Bolero Remix Tiktok Hay Nhất 2023  Gõ Cửa Trái Tim Hỏi Vợ Ngoại Thành H2K Remix",
-      "singer": "Không xác định",
-      "path": "./assets/music/song5.mp3",
-      "images": "./assets/image/dia_nhac.png"
-    },
-    {
-      "id": 6,
-      "name": "Tình Xưa Nghĩa Cũ Remix Tình Đời Khi Trắng Khi Đen Remix Nhạc Trẻ Remix TikTok Hay Nhất 2023",
-      "singer": "Không xác định",
-      "path": "./assets/music/song6.mp3",
-      "images": "./assets/image/dia_nhac.png"
-    },
-    {
-      "id": 7,
       "name": "Thiếu Mới Là Đủ Remix",
       "singer": "Không xác định",
       "path": "./assets/music/song7.mp3",
       "images": "./assets/image/dia_nhac.png"
     },
     {
-      "id": 8,
+      "id": 6,
       "name": "Em Ơi Anh Phải Làm Sao Remix",
       "singer": "Không xác định",
       "path": "./assets/music/song8.mp3",
@@ -73,7 +59,7 @@
     {
       "id": 3,
       "fullname": "sad",
-      "email": "trang123@gmail.com",
+      "email": "khoa123@gmail.com",
       "password": "123456"
     },
     {
